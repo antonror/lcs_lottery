@@ -1,7 +1,7 @@
 require_relative 'boot'
 
-require "rails"
-require "rails/test_unit/railtie"
+require 'rails'
+require 'rails/test_unit/railtie'
 
 Bundler.require(*Rails.groups)
 
