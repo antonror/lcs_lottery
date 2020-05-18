@@ -1,7 +1,7 @@
 # README
 
 1. #### Installation
-    This project runs on ruby `2.7.1` and rails `6.0.0` 
+    This project runs on ruby `2.7.1` and rails `6.0.3` 
     
     Perfect for `rvm` users.
      
@@ -16,6 +16,7 @@
      
  2. #### Results
     It generates both STDOUT output and `.csv` result file (please find `resut.csv` in project directory)
- 
- 3.
+    
+    Solves the case from test task 
+
  
